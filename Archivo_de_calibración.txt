@@ -1,0 +1,6 @@
+	Pendiente	Corte eje Y
+Pres Poro	62618	248,2
+Pres Cam	62496	247,4
+Lvdt Axial	12,032	0,1612
+Celda de carga	2538.5	1,0363
+Lvdt Vol	11,074	5,3683
